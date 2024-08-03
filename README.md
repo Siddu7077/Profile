@@ -1,6 +1,6 @@
-# Hello, I'm Siddesh 👋
+<h1 align="center">Hello, I'm Siddesh 👋</h1> 
 
-Welcome to my GitHub profile! I’m a passionate developer with a love for creating innovative and impactful projects. Here, you can find my work and contributions across various domains, including web development, machine learning, and more.
+<h5 align="center">"A web developer passionate about crafting dynamic and user-friendly web applications."</h5>
 
 ## 🚀 About Me
 
@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I’m a passionate developer with a love for creat
 
 ## 📈 My GitHub History
 
-- **Top Languages**:
--  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu7077&layout=compact&theme=radical)
+- **Top Languages**:<br>
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu7077&layout=compact&theme=radical)
 ## 📝 Recent Projects
 
 - **[Clothing Detection](https://github.com/Siddu7077/Clothing-Detection)**: A web-based application for clothing detection using TensorFlow.js and MobileNet.
@@ -35,13 +35,26 @@ Welcome to my GitHub profile! I’m a passionate developer with a love for creat
 
 ## 📚 Learning & Growth
 
-- **Currently Learning**: Fullstack development 
-- **Future Goals**: Web Developer
+- **Currently Learning**: Full-stack Development
+- **Aspirations**: Becoming a skilled Web Developer
+
 
 ## 🎉 Let's Connect!
 
 Feel free to explore my repositories, follow my projects, or get in touch if you want to collaborate on something interesting. I'm always open to new opportunities and ideas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siddeshwar-reddy-337b16314/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:siddeshwarreddy616@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/siddeshwar-reddy-337b16314/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="102" height="32"/>
+  </a>
+  <span style="margin: 0 10px;"></span>
+  <a href="mailto:siddeshwarreddy616@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="102" height="32"/>
+  </a>
+  <span style="margin: 0 10px;"></span>
+  <a href="https://www.instagram.com/siddu7_/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="102" height="32"/>
+  </a>
+</p>
+
 
