@@ -13,6 +13,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddu7077&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
+
+
 ## 📈 My GitHub History
 
 - **Top Languages**:<br>
