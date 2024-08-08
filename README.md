@@ -1,4 +1,7 @@
-<h1 align="center">Hello, I'm Siddesh 👋</h1> 
+<h1 align="center">
+  <strong style="font-size: 36px;">Hello, I'm Siddesh</strong> 👋
+</h1>
+
 
 <h5 align="center">"A web developer passionate about crafting dynamic and user-friendly web applications."</h5>
 
