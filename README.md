@@ -5,9 +5,23 @@
 ## 🚀 About Me
 
 - **🌍 Location**: Hyderabad
-- **🔧 Technologies & Tools**: HTML, CSS, JavaScript, TensorFlow.js, Three.js, Bootstrap, and more.
-- **💼 Currently Working On**: Fullstack Development
-- **📫 How to Reach Me**: siddeshwarreddy616@gmail.com or https://www.linkedin.com/in/siddeshwar-reddy-337b16314/
+- **🔧 Technologies & Tools**: <br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+- **💼 Currently Working On**: <br>
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-007ACC?style=for-the-badge&logo=code&logoColor=white)
+
+
+- **📫 How to Reach Me**: <br>
+[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddeshwarreddy616@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddeshwar-reddy-337b16314/)
 
 ## 🔥 GitHub Stats
 
@@ -21,9 +35,14 @@
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu7077&layout=compact&theme=radical)
 ## 📝 Recent Projects
 
-- **[Clothing Detection](https://github.com/Siddu7077/Clothing-Detection)**: A web-based application for clothing detection using TensorFlow.js and MobileNet.
-- **[3D Model Viewer](https://github.com/Siddu7077/3D-model)**: An interactive 3D model viewer using Three.js for clothing and human model adjustments.
+[![Clothing Detection](https://img.shields.io/badge/Clothing_Detection-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddu7077/Clothing-Detection)
+[![3D Model Viewer](https://img.shields.io/badge/3D_Model_Viewer-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddu7077/3D-model)
 
+## 🔗 Clones
+
+[![Netflix Clone](https://img.shields.io/badge/Netflix_Clone-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/Siddu7077/FullNetflix-Clone)
+[![Amazon Clone](https://img.shields.io/badge/Amazon_Clone-FF9900?style=for-the-badge&logo=amazon&logoColor=black)](https://github.com/Siddu7077/Amazon-Clone)
+[![Hotstar Clone](https://img.shields.io/badge/Hotstar_Clone-1E90FF?style=for-the-badge&logo=star&logoColor=white)](https://github.com/Siddu7077/Hotstar-Clone)
 ## 👨‍💻 Contributions
 
 - **[Open Source Contributions](https://github.com/Siddu7077?tab=repositories)**: Check out my contributions to various open-source projects.
