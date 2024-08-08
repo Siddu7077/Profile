@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - **🌍 Location**: <br>
-[![Hyderabad](https://img.shields.io/badge/Hyderabad-008080?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Hyderabad)
+[![Hyderabad](https://img.shields.io/badge/Hyderabad-b20238?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Hyderabad)
 - **🔧 Technologies & Tools**: <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
