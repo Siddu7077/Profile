@@ -4,7 +4,8 @@
 
 ## 🚀 About Me
 
-- **🌍 Location**: Hyderabad
+- **🌍 Location**: <br>
+[![Hyderabad](https://img.shields.io/badge/Hyderabad-008080?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Hyderabad)
 - **🔧 Technologies & Tools**: <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,10 +20,6 @@
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-007ACC?style=for-the-badge&logo=code&logoColor=white)
 
 
-- **📫 How to Reach Me**: <br>
-[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddeshwarreddy616@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddeshwar-reddy-337b16314/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddu7_/)
 
 
 ## 🔥 GitHub Stats
@@ -57,18 +54,9 @@
 
 Feel free to explore my repositories, follow my projects, or get in touch if you want to collaborate on something interesting. I'm always open to new opportunities and ideas!
 
-<p>
-  <a href="https://www.linkedin.com/in/siddeshwar-reddy-337b16314/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="102" height="32"/>
-  </a>
+[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddeshwarreddy616@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddeshwar-reddy-337b16314/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddu7_/)
 
-  <a href="mailto:siddeshwarreddy616@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="102" height="32"/>
-  </a>
-
-  <a href="https://www.instagram.com/siddu7_/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="102" height="32"/>
-  </a>
-</p>
 
 
