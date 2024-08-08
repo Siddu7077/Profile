@@ -61,11 +61,11 @@ Feel free to explore my repositories, follow my projects, or get in touch if you
   <a href="https://www.linkedin.com/in/siddeshwar-reddy-337b16314/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="102" height="32"/>
   </a>
-  <span style="margin: 0 10px;"></span>
+
   <a href="mailto:siddeshwarreddy616@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="102" height="32"/>
   </a>
-  <span style="margin: 0 10px;"></span>
+
   <a href="https://www.instagram.com/siddu7_/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="102" height="32"/>
   </a>
