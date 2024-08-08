@@ -17,7 +17,7 @@
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 - **💼 Currently Working On**: <br>
-![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-007ACC?style=for-the-badge&logo=code&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-ff9a8d?style=for-the-badge&logo=code&logoColor=white)
 
 
 
