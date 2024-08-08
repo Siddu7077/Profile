@@ -22,6 +22,8 @@
 - **📫 How to Reach Me**: <br>
 [![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddeshwarreddy616@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddeshwar-reddy-337b16314/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddu7_/)
+
 
 ## 🔥 GitHub Stats
 
