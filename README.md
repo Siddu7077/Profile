@@ -45,21 +45,12 @@
 [![Netflix Clone](https://img.shields.io/badge/Netflix_Clone-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/Siddu7077/FullNetflix-Clone)
 [![Amazon Clone](https://img.shields.io/badge/Amazon_Clone-FF9900?style=for-the-badge&logo=amazon&logoColor=black)](https://github.com/Siddu7077/Amazon-Clone)
 [![Hotstar Clone](https://img.shields.io/badge/Hotstar_Clone-1E90FF?style=for-the-badge&logo=star&logoColor=white)](https://github.com/Siddu7077/Hotstar-Clone)
-## 👨‍💻 Contributions
-
-- **[Open Source Contributions](https://github.com/Siddu7077?tab=repositories)**: Check out my contributions to various open-source projects.
-- **[My GitHub Activity](https://github.com/Siddu7077?tab=activity)**: View my latest activities and contributions.
 
 ## 🌟 Highlights
 
 - **Full-stack Development**: Experience in building both front-end and back-end applications.
 - **Machine Learning Projects**: Worked on various projects involving TensorFlow.js and other ML frameworks.
 - **Design Enthusiast**: Passionate about creating visually appealing and user-friendly interfaces.
-
-## 📚 Learning & Growth
-
-- **Currently Learning**: Full-stack Development
-- **Aspirations**: Becoming a skilled Web Developer
 
 
 ## 🎉 Let's Connect!
