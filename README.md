@@ -35,6 +35,7 @@
 
 - **Top Languages**:<br>
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu7077&layout=compact&theme=radical)
+
 ## 📝 Recent Projects
 
 [![Clothing Detection](https://img.shields.io/badge/Clothing_Detection-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddu7077/Clothing-Detection)
