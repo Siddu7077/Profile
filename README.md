@@ -2,8 +2,10 @@
 
 
 
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=55&pause=100&color=FFFFFF&width=870&height=95&lines=Hello%2C+I'm+SIDDESH+%F0%9F%91%8B
-)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=55&pause=100&color=FFFFFF&width=870&height=95&lines=Hello%2C+I'm+SIDDESH+%F0%9F%91%8B" alt="Hey typed effect">
+</div>
+
 
 
 
