@@ -10,7 +10,7 @@
 
 
 
-<h5 align="center">"A web developer passionate about crafting dynamic and user-friendly web applications."</h5>
+<h5>"A web developer passionate about crafting dynamic and user-friendly web applications."</h5>
 
 ## 🚀 About Me
 
