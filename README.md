@@ -2,7 +2,7 @@
 
 
 
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Merienda&weight=500&size=55&pause=100&color=FFFFFF&width=870&height=95&lines=Hello%2C+I'm+Siddesh+%F0%9F%91%8B
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=55&pause=100&color=FFFFFF&width=870&height=95&lines=Hello%2C+I'm+SIDDESH+%F0%9F%91%8B
 )
 
 
