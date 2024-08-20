@@ -54,7 +54,6 @@
 - **Machine Learning Projects**: Worked on various projects involving TensorFlow.js and other ML frameworks.
 - **Design Enthusiast**: Passionate about creating visually appealing and user-friendly interfaces.
 
-
 ## 🎉 Let's Connect!
 
 Feel free to explore my repositories, follow my projects, or get in touch if you want to collaborate on something interesting. I'm always open to new opportunities and ideas!
