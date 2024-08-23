@@ -23,15 +23,15 @@
 - **💼 Currently Working On**: <br>
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-ff9a8d?style=for-the-badge&logo=code&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+
 
 
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddu7077&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kovidgoyal&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Siddu7077)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kovidgoyal)](https://git.io/streak-stats)
 
 ## 📈 My GitHub History
 
