@@ -23,10 +23,6 @@
 - **💼 Currently Working On**: <br>
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-ff9a8d?style=for-the-badge&logo=code&logoColor=white)
 
-![Stars](https://img.shields.io/github/stars/gayanvoice/repo-name?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/gayanvoice/repo-name?style=for-the-badge&logo=github)
-![Contributors](https://img.shields.io/github/contributors/gayanvoice/repo-name?style=for-the-badge&logo=github)
-
 
 
 ## 🔥 GitHub Stats
