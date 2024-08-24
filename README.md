@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=55&pause=100&color=FFcc4d&width=870&height=95&lines=Hello%2C+I'm+SIDDESH+%F0%9F%91%8B" alt="Hey typed effect"/>
 
-<h5>A web developer passionate about crafting dynamic and user-friendly web applications.</h5>
+<h3>A web developer passionate about crafting dynamic and user-friendly web applications.</h3>
 
 ## 🚀 About Me
 
